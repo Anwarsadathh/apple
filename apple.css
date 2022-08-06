@@ -1,0 +1,579 @@
+.header{
+    position: sticky;
+    background: rgba(0,0,0,0.8);
+    width: 100%;
+    height: 48px;
+    margin: 0;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+   
+}
+ul{
+    list-style: none;
+}
+.list{
+    color: rgb(245, 245, 247);
+    height: 44px;
+    background: no-repeat;
+    text-decoration: none;
+    position: relative;
+    opacity: 0.8;
+    white-space: nowrap;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    outline-offset: -7px;
+    padding: 0px 8px;
+    font-size: 12px;
+    display: flex;
+flex-direction: row;
+}
+.list li{
+    padding-left: 50px;
+}
+.material-symbols-outlined {
+    color: white;
+  font-variation-settings:
+  'FILL' 1,
+  'wght' 700,
+  'GRAD' 0,
+  'opsz' 48
+}
+.bag
+{
+    width: 1px;
+    height: 4px;
+    font-size: 22px;
+}
+.mainbody{
+    display: block;
+   
+    background-image: url("images/a.png");
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 675px;
+    margin-top: px;
+}
+.apple{
+    float: left;
+  
+    width: 40%;
+    margin-top: 180px;
+    margin-left: 20px;
+    height: 400px;
+    padding-top: 40px;
+}
+.content
+{
+padding: 50px;
+padding-top: 100px;
+padding-left: 100px;
+margin-left: 100px;
+font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-weight: 400;
+font-size: 28px;
+line-height: 25px;
+font-style: normal;
+}
+.con1
+{
+    margin-top: -60px;
+    padding-left: 30px;
+    height: 100px;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}    
+.learn{
+    margin-top: -80px;
+    font-size: 20px;
+    padding-left: 55px;
+    color: royalblue;
+}
+.index-3
+{
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 600px;
+    margin-top: px;
+    background-color: #f5f5f7;
+}
+.indx3f
+{
+    background-color: #f5f5f7;
+    padding: 50px;
+    padding-top: 100px;
+    padding-left: -50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+p {
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 50px;
+    color: black;
+    font-weight:bold;
+    font-style:italic;
+    padding-left: 250px;
+    margin-top: -55px;
+    
+}
+
+mark.red {
+    color:#ca2467;
+    background: none;
+}
+
+mark.blue {
+    color: black;
+    background: none;
+}
+.a{
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 25px;
+    line-height: 1.47059;
+    font-weight: 400;
+    color: #1d1d1f;
+    font-style: normal;
+    padding-left: 415px;
+    
+}
+.b{
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 25px;
+    line-height: 1.47059;
+    font-weight: 400;
+    color: #1d1d1f;
+    font-style: normal;
+    padding-left: 550px;
+    margin-top: -22px;
+    color: royalblue;
+}
+.img1{
+    
+    align-items: center;
+    padding-left: 260px;
+    margin-top: -20px;
+}
+.index-4
+{
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 625px;
+    margin-top: px;
+    background-color: white;
+}
+body{
+    margin: 0;
+}
+.indxx4
+{
+    height: 160px;
+    background-color: white;
+    width: 100%;
+}
+.watch
+{
+    padding-left: 650px;
+}
+.para
+{
+    margin-top: 10px;
+    font-size: 27px;
+    position: absolute;
+    color: #1d1d1f;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    padding-left: 600px;
+    font-weight: 400;
+    font-style: normal;
+}
+.buy1{
+    color: royalblue;
+    font-size: 20px;
+    line-height: 1.47059;
+    font-weight: 400;
+    padding-left: 650px;
+    margin-top: 50px;
+    font-style: normal;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.c2
+{
+    padding-left: 450px;
+}
+.index-5
+{
+    width: 100%;
+    height: 620px;
+    background-color: white;
+}
+.c3 
+{
+    width: 100%;
+    height: 105px;
+    background-color: white;
+}
+.cn1{
+    font-style: normal;
+    font-weight: 400;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;text-decoration-thickness: 20px;
+    color: #1d1d1f;
+    font-weight: 550 ;
+    font-size: 38px;
+    padding-left: 300px;
+}
+.para1
+{
+    margin-top: -38px;
+    font-size: 23px;
+    padding-left: 279px;
+    position: absolute;
+    color: #1d1d1f;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+}
+.para2
+{
+    color: royalblue;
+    font-size: 17px;
+    font-weight: 400;
+    padding-left: 311px;
+    margin-top: 0px;
+    font-style: normal;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.cn2{
+    font-style: normal;
+    font-weight: 400;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;text-decoration-thickness: 20px;
+    color: #1d1d1f;
+    font-weight: 550 ;
+    font-size: 38px;
+    padding-left: 1000px;
+    margin-top: -118px;
+}
+.para3
+{
+    margin-top: -38px;
+    font-size: 23px;
+    padding-left: 1070px;
+    position: absolute;
+    color: #1d1d1f;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+    cursor: pointer;
+}
+.para4
+{
+    color: royalblue;
+    font-size: 17px;
+    font-weight: 400;
+    padding-left: 1040px;
+    margin-top: 0px;
+    font-style: normal;
+    cursor: pointer;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.iphone
+{
+    padding-left: 21px;
+}
+.pro
+{
+    padding-left: 173px;
+}
+.index-6
+{   
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 700px;
+    margin-top: -80px;
+    background-color: white;
+}
+.c4
+{
+    width: 49%;
+    height: 600px;
+    background-color: black;
+}
+.cn3
+{
+    padding-top: 100px;
+    font-style: normal;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;text-decoration-thickness: 20px;
+    color: white;
+    font-weight: 550 ;
+    font-size: 38px;
+    padding-left: 200px;
+}
+.mac
+{
+    padding-left: 250px;
+    margin-top: -35px;
+}
+.para5
+{
+    color: royalblue;
+    font-size: 17px;
+    font-weight: 400;
+    padding-left: 265px;
+    margin-top: 0px;
+    font-style: normal;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.cn4
+{
+    padding-left: 1000px;
+    padding-top: 50px;
+    
+}  
+.ipadd
+{
+    float: left;
+    width: 49%;
+    height: 600px;
+    background-color: black;
+}
+.air{
+padding-left: 300px;
+margin-top: 55px;
+}
+.para6
+{
+    margin-top: 10px;
+    font-size: 23px;
+    position: absolute;
+    color: white;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+    cursor: pointer;  
+}
+.para7
+{
+    color: royalblue;
+    font-size: 17px;
+    font-weight: 400;
+    padding-left: 280px;
+    margin-top: 50px;
+    font-style: normal;
+    cursor: pointer;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.lap
+{
+    width: 90%;
+    height: 60%;
+    margin-top: -20px;
+    padding-left: 40px;
+}
+.index-8
+{
+    position: relative;
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 600px;
+    margin-top: -90px;
+    background-color: white;
+}
+.container1
+{
+    position: inherit;
+    float: left;
+    width: 49%;
+    height: 550px;
+    background-color: rgb(255, 255, 255);
+}
+.container2{
+    position: inherit;
+    float: left;
+    width: 49%;
+    height: 550px;
+}
+.arc
+{
+    margin-left: 270px;
+    margin-top: 70px;
+}
+.para8
+{
+    margin-top: 10px;
+    font-size: 23px;
+    position: absolute;
+    color: #1d1d1f;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-weight: 400;
+    font-style: normal;      
+}
+.para9
+{
+    color: royalblue;
+    font-size: 17px;
+    font-weight: 400;
+    padding-left: 250px;
+    margin-top: 50px;
+    font-style: normal;
+    cursor: pointer;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.subway
+{
+    position: absolute;
+    
+    width: 100%;
+    height: 70%;
+    margin-top: -16px;
+}
+.show
+{
+        width: 100%;
+        height: 565px;
+        background-repeat: no-repeat;
+        background-size: contain;
+}
+.show{
+    position: relative;
+    top:0;
+    left:0;
+
+}
+.tv{
+    position: absolute;
+    top: 30px;
+    left: 30px;
+   padding-left: 350px;
+   margin-top: 20px;
+}
+.black
+{
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    padding-left: 250px;
+    margin-top: 300px;
+}
+.par{
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    padding-left: 260px;
+    margin-top: 420px;
+    color: #f5f5f7;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+    font-size: 20px;
+}
+.parr
+{
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    padding-left: 320px;
+    margin-top: 480px;
+    color: #f5f5f7;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+    font-size: 20px;
+}
+.paar
+{
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    color: #f5f5f7;
+    padding-left: 430px;
+    margin-top: 485px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.footer
+{
+    width: 100%;
+    height: 710px;
+    background-color: #f5f5f7;
+}
+.foot-para
+{
+    width: 60%;
+    height: 700px;
+    background-color: #f5f5f7;
+    margin-left: 290px;
+    
+}
+.words
+{
+    box-sizing: content-box;
+    margin: 0;
+    padding: 0;
+    pointer-events: auto;
+    letter-spacing: normal;
+    font-size: 12px;
+    line-height: 1.33337;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif;
+    
+}
+.row
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+ul{
+    list-style: none;
+    font-size: 15px;
+    text-decoration: none;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.colom
+{
+    padding-left: ;
+}
+.heading
+{
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif;
+padding-left: 40px;
+}
+.last{
+    box-sizing: content-box;
+    margin: 0;
+    padding: 41px;
+    pointer-events: auto;
+    letter-spacing: normal;
+    font-size: 12px;
+    line-height: 1.33337;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: -.01em;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.line{
+    margin-top: -40px;
+}
+.final
+{
+    margin: 0;
+    padding: 41px;
+    pointer-events: auto;
+    letter-spacing: normal;
+    font-size: 12px;
+    line-height: 1.33337;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: -49px;
+    letter-spacing: -.01em;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+li a{
+    text-decoration: none;
+    color: #737376;
+}
